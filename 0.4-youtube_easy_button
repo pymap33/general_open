@@ -7,4 +7,7 @@ https://www.youtube.com/watch?v=ce5tWoPPRIQ&t=10s
 3. Use a simple summary prompt then past in transcript. If transcipt is too long, open text editor, past into text editor, save the file.  Then drop in the text file into the prompt then execute with simple prompt.
 
 example:
-_please provide a summary, main points, sub-points, and conclusions for the following transcript: [insert transcript in brackets]_
+
+Please provide a summary, main points, sub-points, and conclusions for the following transcript: [insert transcript in brackets]
+
+Eventually upgrade your prompt with the help of prompting AI or other shared frameworks.
