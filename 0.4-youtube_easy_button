@@ -1,0 +1,10 @@
+Watch this video to learn how to generate video summaries for youtube using AI:
+
+https://www.youtube.com/watch?v=ce5tWoPPRIQ&t=10s
+
+1. Copy the transcript
+2. Go to you choice of quality AI site.
+3. Use a simple summary prompt then past in transcript. If transcipt is too long, open text editor, past into text editor, save the file.  Then drop in the text file into the prompt then execute with simple prompt.
+
+example:
+_please provide a summary, main points, sub-points, and conclusions for the following transcript: [insert transcript in brackets]_
